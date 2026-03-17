@@ -1,0 +1,15 @@
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\bin\Debug\net10.0\Modul4_103022400014.exe
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\bin\Debug\net10.0\Modul4_103022400014.deps.json
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\bin\Debug\net10.0\Modul4_103022400014.runtimeconfig.json
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\bin\Debug\net10.0\Modul4_103022400014.dll
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\bin\Debug\net10.0\Modul4_103022400014.pdb
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\obj\Debug\net10.0\Modul4_103022400014.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\obj\Debug\net10.0\Modul4_103022400014.AssemblyInfoInputs.cache
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\obj\Debug\net10.0\Modul4_103022400014.AssemblyInfo.cs
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\obj\Debug\net10.0\Modul4_103022400014.csproj.CoreCompileInputs.cache
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\obj\Debug\net10.0\Modul4_103022400014.sourcelink.json
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\obj\Debug\net10.0\Modul4_103022400014.dll
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\obj\Debug\net10.0\refint\Modul4_103022400014.dll
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\obj\Debug\net10.0\Modul4_103022400014.pdb
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\obj\Debug\net10.0\Modul4_103022400014.genruntimeconfig.cache
+C:\Users\noval\source\repos\Modul4_103022400014\Modul4_103022400014\obj\Debug\net10.0\ref\Modul4_103022400014.dll
